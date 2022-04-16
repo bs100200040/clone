@@ -1,3 +1,7 @@
 age :30
 edu :bs
 job :IT
+height :5"4
+address n karachi
+country pak
+nationality :pk
